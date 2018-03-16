@@ -1,0 +1,37 @@
+.important {
+	color: red;
+	background-color: yellow;
+}
+.unimportant {
+	color: yellow;
+	background-color: blue;
+}
+.cat-climate {
+	background-color: green;
+
+}
+.cats p {
+  background-color: coral;
+}
+.dogs p {
+  background-color: steelblue;
+}
+.cats p a {
+  font-weight: bold;
+}
+.dogs p a {
+  font-style: italic;
+}.dog {
+	color: yellow;
+}
+.dogs p span{
+	font-size: 60px;
+
+}
+body p a {
+	font-size: 60px;
+}
+image {
+	float:far left;
+}
+
